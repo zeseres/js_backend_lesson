@@ -1,0 +1,24 @@
+{
+  "name": "js_backend_lesson",
+  "version": "1.0.0",
+  "description": "back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeseres/js_backend_lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeseres/js_backend_lesson/issues"
+  },
+  "homepage": "https://github.com/zeseres/js_backend_lesson#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0"
+  }
+}
